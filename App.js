@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="my name is francisco cuesta and im going to master react!">
+      <header className="my name is francisco cuesta and im defenetly going to master react!">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> saved and reloaded.
