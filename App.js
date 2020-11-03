@@ -2,14 +2,14 @@
 //francisco cuesta
 
 import React from 'react';
-import logo from './franciscocuestapic.jpeg';
+import pic from './franciscocuestapic.jpeg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="my name is francisco cuesta and  defenetly going to master react!!!">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={pic} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> saved and reloaded.
         </p>
